@@ -1,0 +1,1 @@
+{"blocks":{"languageVersion":0,"blocks":[{"type":"setup","id":"w9wpK_9]ST/Yw%|gbx7g","x":363,"y":146,"next":{"block":{"type":"loop","id":"Yhz_Mk;aUU:D2Y8?+sel","inputs":{"loopData":{"block":{"type":"Serial_println","id":"Q9@8;!hSr8Bjfw?cH5:n","inputs":{"inputVarA":{"block":{"type":"text","id":"u@I6b]=MtKnO1%*Ct0;m","fields":{"TEXT":"test"}}}}}}}}}}]}}
